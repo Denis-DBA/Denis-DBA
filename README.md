@@ -134,12 +134,6 @@ Busco oportunidades que permitam desenvolver projetos reais, solucionar problema
 
 ---
 
-## 📫 Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-Denis--DBA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denis-DBA)
-
----
-
 *Construir, testar, aprender e evoluir continuamente.*
 
 ## 🎯 Objetivos Profissionais
