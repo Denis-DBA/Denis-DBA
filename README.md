@@ -48,6 +48,9 @@ Meu objetivo é unir minha experiência em telecomunicações aos conhecimentos 
 ### ⚙️ Automação, Agentes de IA e Observabilidade
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF6D00?style=for-the-badge)
+![RPA](https://img.shields.io/badge/RPA-334155?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-087E8B?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-222222?style=for-the-badge)
 ![Langfuse](https://img.shields.io/badge/Langfuse-7048E8?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00897B?style=for-the-badge)
@@ -107,6 +110,18 @@ Desenvolvimento de uma solução de atendimento automatizado que integra **Whats
 - Preparação de observabilidade com Langfuse.
 
 **Status do projeto:** Em desenvolvimento. Integrações configuradas, com testes funcionais completos e validação para produção pendentes.
+
+---
+
+### ⚙️ Automação RPA — Automation Anywhere + n8n + Excel
+
+Projeto prático de **Robotic Process Automation (RPA)** que integra o n8n ao Automation Anywhere 360 por **API REST**, executando o bot `RPA_Processamento_Solicitacoes` para processamento de solicitações em Excel.
+
+**Tecnologias utilizadas:** `Automation Anywhere 360` · `n8n` · `HTTP Request` · `API REST` · `Excel` · `Schedule Trigger`
+
+**Resultados validados:** autenticação por credencial protegida, acionamento do bot via API e execução agendada do workflow no n8n às 17h20 de 09/11/2026. O agendamento pretendido é diário, às **08h00 e 17h20** (America/Sao_Paulo); o estado final publicado dessas duas regras deve ser confirmado no n8n.
+
+**Escopo:** laboratório e portfólio com execução assistida em Windows; não equivale a operação RPA não assistida em produção.
 
 ---
 
