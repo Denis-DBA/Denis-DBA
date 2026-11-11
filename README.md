@@ -2,7 +2,7 @@
 
 🤖 Automação & Inteligência Artificial | ⚙️ Agentes de IA & RPA | 💾 Banco de Dados & Engenharia de Dados
 
-Profissional com mais de 10 anos de experiência em operações de telecomunicações, com atuação em monitoramento de redes, troubleshooting, análise de indicadores, gestão de incidentes e otimização de processos.
+Profissional com mais de 11 anos de experiência em operações de telecomunicações, com atuação em monitoramento de redes, troubleshooting, análise de indicadores, gestão de incidentes e otimização de processos.
 
 Atualmente, direciono minha carreira para Automação e Inteligência Artificial, desenvolvendo projetos práticos com n8n, Python, LangGraph, Ollama, APIs REST, RPA e Machine Learning.
 
