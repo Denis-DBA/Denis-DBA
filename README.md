@@ -1,14 +1,16 @@
-# 👋 Olá! Eu sou Denis Ramalho
+👋 Olá! Eu sou Denis Ramalho
 
-### 💾 Banco de Dados | ☁️ Engenharia de Dados | 🤖 Inteligência Artificial | ⚙️ Automação
+🤖 Automação & Inteligência Artificial | ⚙️ Agentes de IA & RPA | 💾 Banco de Dados & Engenharia de Dados
 
-Sou profissional com mais de **10 anos de experiência em operações de telecomunicações**, atualmente em transição de carreira para a área de Tecnologia da Informação, com foco em **Banco de Dados, Engenharia de Dados, Inteligência Artificial e Automação**.
+Profissional com mais de 10 anos de experiência em operações de telecomunicações, com atuação em monitoramento de redes, troubleshooting, análise de indicadores, gestão de incidentes e otimização de processos.
 
-Sou estudante de Banco de Dados e desenvolvo projetos práticos envolvendo SQL, Python, bancos relacionais e NoSQL, agentes inteligentes, APIs, automação de processos e infraestrutura com Docker.
+Atualmente, direciono minha carreira para Automação e Inteligência Artificial, desenvolvendo projetos práticos com n8n, Python, LangGraph, Ollama, APIs REST, RPA e Machine Learning.
 
-Meu objetivo é unir minha experiência em telecomunicações aos conhecimentos em dados e IA, desenvolvendo soluções inteligentes, eficientes, seguras e escaláveis.
+Possuo experiência com bancos de dados relacionais e NoSQL, integração de sistemas, agentes inteligentes, arquiteturas RAG, observabilidade de IA e infraestrutura baseada em Docker.
 
-> 💡 Acredito no aprendizado baseado na prática: construir, testar, corrigir e evoluir.
+Meu foco é aplicar tecnologia para automatizar processos, integrar sistemas, analisar dados e desenvolver soluções inteligentes.
+
+💡 Construir, testar, corrigir, documentar e evoluir.
 
 ---
 
@@ -86,71 +88,106 @@ Meu objetivo é unir minha experiência em telecomunicações aos conhecimentos 
 
 ---
 
-## 🚀 Projetos em Destaque
+🚀 Projetos em Destaque
 
-### 🤖 Agente de Atendimento Inteligente — WhatsApp | IA + CRM
+🧠 Análise de Inadimplência com Machine Learning e Agentes de IA
 
-Desenvolvimento de uma solução de atendimento automatizado que integra **WhatsApp, Inteligência Artificial, CRM, bancos de dados e APIs**.
+Projeto de análise de risco de crédito e classificação de inadimplência, utilizando técnicas de Machine Learning, processamento de dados e integração com agentes de Inteligência Artificial.
 
-**Tecnologias utilizadas:**
+Tecnologias: Python · Pandas · Scikit-learn · LangGraph · Ollama · FastAPI · Docker · Jupyter
 
-`n8n` · `Ollama` · `PostgreSQL` · `Redis` · `PGVector` · `HubSpot` · `Langfuse` · `Docker` · `Evolution Go`
+Principais funcionalidades:
 
-**Principais funcionalidades:**
+Preparação, limpeza e análise exploratória de dados.
 
-- Atendimento automatizado via WhatsApp.
-- Processamento de texto, áudio, imagens e documentos PDF.
-- Análise de sentimentos e identificação de idioma.
-- Agentes inteligentes com ferramentas especializadas.
-- Cadastro e consulta de clientes no PostgreSQL.
-- Gerenciamento de tickets de atendimento.
-- Integração com HubSpot CRM para contatos comerciais.
-- Agendamentos no Google Calendar e integração com Gmail, Google Drive e Slack.
-- Consulta a bases de conhecimento com RAG e PGVector.
-- Preparação de observabilidade com Langfuse.
+Utilização do dataset Default of Credit Card Clients, com 30.000 registros.
 
-**Status do projeto:** Em desenvolvimento. Integrações configuradas, com testes funcionais completos e validação para produção pendentes.
+Desenvolvimento e avaliação de modelos de Machine Learning.
 
----
+Pipeline de processamento e predição.
 
-### ⚙️ Automação RPA — Automation Anywhere + n8n + Excel
+API REST desenvolvida com FastAPI.
 
-Projeto prático de **Robotic Process Automation (RPA)** que integra o n8n ao Automation Anywhere 360 por **API REST**, executando o bot `RPA_Processamento_Solicitacoes` para processamento de solicitações em Excel.
+Integração com agente de IA utilizando LangGraph e Ollama.
 
-**Tecnologias utilizadas:** `Automation Anywhere 360` · `n8n` · `HTTP Request` · `API REST` · `Excel` · `Schedule Trigger`
+Testes e organização modular do projeto.
 
-**Resultados validados:** autenticação por credencial protegida, acionamento do bot via API e execução agendada do workflow no n8n às 17h20 de 09/11/2026. O agendamento pretendido é diário, às **08h00 e 17h20** (America/Sao_Paulo); o estado final publicado dessas duas regras deve ser confirmado no n8n.
+Status: Projeto desenvolvido, com integrações adicionais previstas para futuras versões.
 
-**Escopo:** laboratório e portfólio com execução assistida em Windows; não equivale a operação RPA não assistida em produção.
+🤖 Agente de Atendimento Inteligente — WhatsApp + IA + CRM
 
----
+Solução de atendimento automatizado que integra WhatsApp, agentes de IA, bancos de dados, CRM e APIs para processamento de solicitações e gerenciamento de clientes.
 
-## 📚 Conhecimentos em Desenvolvimento
+Tecnologias: n8n · Ollama · PostgreSQL · PGVector · Redis · HubSpot · Langfuse · Docker · Evolution Go
 
-Atualmente, aprofundo meus conhecimentos em:
+Principais funcionalidades:
 
-- Administração e otimização de bancos de dados.
-- SQL avançado, PL/SQL e modelagem de dados.
-- Engenharia de Dados e pipelines ETL/ELT.
-- Python aplicado a dados e automação.
-- Inteligência Artificial Generativa e agentes autônomos.
-- RAG, embeddings e bancos de dados vetoriais.
-- MCP e integração entre agentes e ferramentas.
-- Docker, Kubernetes e infraestrutura em nuvem.
-- Segurança, observabilidade e boas práticas de desenvolvimento.
+Atendimento automatizado via WhatsApp.
 
----
+Processamento de mensagens, áudios e documentos.
 
-## 🎯 Objetivos Profissionais
+Identificação de intenções, sentimentos e idioma.
 
-Meu objetivo é atuar nas áreas de **Banco de Dados, Engenharia de Dados, Inteligência Artificial e Automação**, aplicando minha experiência em telecomunicações e meus conhecimentos técnicos na construção de soluções inteligentes.
+Consulta a bases de conhecimento com RAG e PGVector.
 
-Busco oportunidades que permitam desenvolver projetos reais, solucionar problemas complexos e continuar evoluindo profissionalmente.
+Gerenciamento de clientes e tickets no PostgreSQL.
 
----
+Integração com HubSpot CRM.
 
-*Construir, testar, aprender e evoluir continuamente.*
+Integrações com Google Calendar, Gmail e Slack.
 
-## 🎯 Objetivos Profissionais
+Monitoramento e observabilidade com Langfuse.
 
-Atuar nas áreas de **Banco de Dados, Engenharia de Dados, Inteligência Artificial e Automação**, aplicando conhecimentos técnicos no desenvolvimento de soluções eficientes, seguras e escaláveis.
+Roteamento de solicitações e escalonamento para atendimento humano.
+
+Status: Em desenvolvimento, com integrações testadas e validação final para produção pendente.
+
+⚙️ Automação RPA — Automation Anywhere + n8n + Excel
+
+Projeto prático de Robotic Process Automation para integração de workflows n8n com Automation Anywhere 360, permitindo o acionamento de bots responsáveis pelo processamento de solicitações em Excel.
+
+Tecnologias: Automation Anywhere 360 · n8n · API REST · HTTP Request · Excel · Schedule Trigger
+
+Principais funcionalidades:
+
+Integração entre plataformas de automação por API REST.
+
+Autenticação e acionamento de bots.
+
+Execução do bot RPA_Processamento_Solicitacoes.
+
+Processamento automatizado de solicitações.
+
+Configuração de gatilhos para execução de workflows.
+
+Testes de comunicação e execução entre n8n e Automation Anywhere.
+
+Status: Projeto de laboratório com execução funcional validada, sem caracterização de ambiente produtivo não assistido.
+
+📚 Formação e Desenvolvimento Profissional
+
+Formação em Banco de Dados, com estudos e projetos práticos voltados a:
+
+Administração de bancos relacionais e NoSQL.
+
+Modelagem de dados e SQL avançado.
+
+Engenharia de Dados e pipelines ETL/ELT.
+
+Machine Learning e análise preditiva.
+
+Inteligência Artificial Generativa e agentes de IA.
+
+Automação de processos com n8n e RPA.
+
+Arquiteturas RAG, embeddings e bancos vetoriais.
+
+Integração de sistemas utilizando MCP e APIs REST.
+
+Infraestrutura, conteinerização e observabilidade.
+
+🎯 Objetivo Profissional
+
+Atuar em Automação, Inteligência Artificial e Engenharia de Dados, aplicando minha experiência em operações de telecomunicações, análise de indicadores e resolução de problemas ao desenvolvimento de soluções inteligentes, integração de sistemas e otimização de processos.
+
+💡 Construir, testar, aprender e evoluir continuamente.
